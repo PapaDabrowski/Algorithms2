@@ -1,0 +1,1 @@
+function x=new_power(a,x)
